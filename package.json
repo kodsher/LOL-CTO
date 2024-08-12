@@ -4,6 +4,9 @@
         "build": "vite build",
         "preview": "vite preview"
     },
+    "dependencies": {
+        "matter-js": "^0.17.1"
+    },
     "devDependencies": {
         "vite": "^4.0.3"
     }
